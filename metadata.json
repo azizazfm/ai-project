@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of AI Image Chat Editor",
+  "description": "Upload an image, get an AI-generated description, and then use a chat interface to iteratively edit the image with text prompts.",
+  "requestFramePermissions": []
+}
